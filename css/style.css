@@ -1,0 +1,10 @@
+*{margin:0; padding:0;}
+#controller{width:800px; overflow:hidden; margin:0 auto 50px; padding-top:10px;}
+.op_btn{float:right; width:70px; height:35px; line-height:35px; background:#fff; border:solid 1px #333; font-family:"微软雅黑"; 
+text-align: center; font-size:20px; cursor:pointer;}
+.op_btn:hover{background:blue; color:#fff;}
+.clear_fix{clear:both;}
+.color_btn{float:left; margin-right:10px; cursor:pointer; padding:20px;border:solid 3px #fff; }
+#black_btn{background:#000;}
+#blue_btn{background:blue;}
+.btn_selected{border:solid 3px pink;}
